@@ -1,7 +1,7 @@
 # dissertation
 
 <p float="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
 My final year project for my Computing degreee at Imperial College London. The primary focus was to explore the relationship between speed and security of cross-chain transactions.
